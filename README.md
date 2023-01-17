@@ -18,6 +18,6 @@ To run this application, run: npm start to use on a local server 3001 after clon
  * Moment
  * Express
 
-## Demonstrations
+## Demonstration
 
-Video demonstrations can be found on my YouTube channel by clikcing the link below. 
+[]

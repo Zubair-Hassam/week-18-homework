@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chris6661/18-NoSQL-Social-Network-API.git"
+    "url": "https://github.com/Zubair-Hassam/week-18-homework"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chris6661/18-NoSQL-Social-Network-API/issues"
+    "url": "https://github.com/Zubair-Hassam/week-18-homework"
   },
-  "homepage": "https://github.com/chris6661/18-NoSQL-Social-Network-API#readme",
+  "homepage": "https://github.com/Zubair-Hassam/week-18-homework",
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.29.1",
